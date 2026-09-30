@@ -44,3 +44,13 @@ Install the Java JDK on your computer.
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_LINK
+
+### Step 3:Open The Project Folder
+
+cd student-management-system-java
+
+ ### step 4:Compile The Program 
+ javac Main.java
+
+ ### Step 5:Run The Program 
+ java Main
